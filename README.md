@@ -10,7 +10,7 @@ für Zotero, Citavi etc.
 ### Zotero
 + Speichern Sie roemisch_germanische_kommission.cls lokal ab.
 + Öffnen Sie die Stile-Einstellungen in Zotero (Menüleiste "Bearbeiten" -> "Einstellungen" -> "Zitieren" -> "Stile")
-+ Klicken Sie auf das Plus am unteren Ende Stil-Liste und wählen Sie den Stil an Ihrem gewählten Speicherort.
++ Klicken Sie auf das Plus am unteren Ende der Stil-Liste und wählen Sie den RGK-Stil an Ihrem gewählten Speicherort.
 ## Versionshinweise
 ### Version 0.1
 + Initiale Version
