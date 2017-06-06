@@ -14,13 +14,13 @@ für Zotero, Citavi etc.
 ## Versionshinweise
 ### Version 0.1
 + Initiale Version
-+ Zitation für: (In Klammern Name der Eintragsart in Zotero)
-> +  selb-/unselbständige Monographien (Buch)
-> + Aufsätze in Sammelbänden (Buchteil)
-> + Aufsätze in Zeitschriften (Zeitschriftenartikel)
-> + Aufsätze in Lexika (Enzyklopädieartikel)
-> + Abschlussarbeiten (Dissertation)
-> + Webquellen (Webseite)
++ Zitation für: *(In Klammern: Name der Eintragsart in Zotero)*
+> +  selb-/unselbständige Monographien *(Buch)*
+> + Aufsätze in Sammelbänden *(Buchteil)*
+> + Aufsätze in Zeitschriften *(Zeitschriftenartikel)*
+> + Aufsätze in Lexika *(Enzyklopädieartikel)*
+> + Abschlussarbeiten *(Dissertation)*
+> + Webquellen *(Webseite)*
 + Alle Zitate nach http://www.av-rheinland.de/Richtlinien.pdf mit folgenden Änderungen nach https://www.uni-muenster.de/imperia/md/content/geschichte/ufg/pdf/zitierregeln_neu.pdf:
 > + Vollnennung aller Autoren bis 3, statt bis 2.
 > + "et al." statt "u. a."
