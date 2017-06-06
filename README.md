@@ -22,3 +22,4 @@ Neueste Version 0.1
 + Alle Zitate nach http://www.av-rheinland.de/Richtlinien.pdf mit folgenden Änderungen nach https://www.uni-muenster.de/imperia/md/content/geschichte/ufg/pdf/zitierregeln_neu.pdf:
 > + Vollnennung aller Autoren bis 3, statt bis 2.
 > + "et al." statt "u. a."
+> + Internettexte
