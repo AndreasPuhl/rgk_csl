@@ -12,6 +12,8 @@ für Zotero, Citavi etc.
 + Öffnen Sie die Stile-Einstellungen in Zotero (Menüleiste "Bearbeiten" -> "Einstellungen" -> "Zitieren" -> "Stile")
 + Klicken Sie auf das Plus am unteren Ende der Stil-Liste und wählen Sie den RGK-Stil an Ihrem gewählten Speicherort.
 ## Versionshinweise
+## Bugs
+Bekannte Bugs finden sich unter Issues. Wenn Sie einen Bug finden oder ein Feature anfragen möchten, tragen Sie es dort bitte möglichst detailliert ein.
 ### Version 0.1
 + Initiale Version
 + Zitation für: *(In Klammern: Name der Eintragsart in Zotero)*
