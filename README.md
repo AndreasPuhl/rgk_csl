@@ -11,4 +11,4 @@ Neueste Version 0.1
 + Klicken Sie auf das Plus am unteren Ende Stil-Liste und wählen Sie den Stil an Ihrem gewählten Speicherort.
 ## Versionshinweise
 ### Version 0.1
-+ Initiale Version für Bücher, Buchteile, Zeitschriftenartikel, Abschlussarbeiten, Lexikaeinträge und Webquellen. Alle Zitate nach xxx, Webquellen nach yyy.
++ Initiale Version für Bücher, Buchteile, Zeitschriftenartikel, Abschlussarbeiten, Lexikaeinträge und Webquellen. Alle Zitate nach http://www.av-rheinland.de/Richtlinien.pdf, Webquellen nach https://www.uni-muenster.de/imperia/md/content/geschichte/ufg/pdf/zitierregeln_neu.pdf.
