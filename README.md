@@ -26,4 +26,4 @@ Bekannte Bugs finden sich unter Issues. Wenn Sie einen Bug finden oder ein Featu
 + Alle Zitate nach http://www.av-rheinland.de/Richtlinien.pdf mit folgenden Änderungen nach https://www.uni-muenster.de/imperia/md/content/geschichte/ufg/pdf/zitierregeln_neu.pdf:
 > + Vollnennung aller Autoren bis 3, statt bis 2.
 > + "et al." statt "u. a."
-> + Internettexte
+> + Internettexte. *Hier jedoch abweichend NICHT* "URL: www.webseite.de [Stand: 1.1.2017]"*, sondern* "<www.webseite.de> [Stand 1.1.2017]"*, da nicht alle Quellenangaben URLs sein müssen. Bei einer DOI- oder URN-Angabe wäre das sonst ein Problem.*
