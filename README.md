@@ -2,7 +2,7 @@
 Zitationsstil nach den Regeln der Römisch Germanischen Kommission
 für Zotero, Citavi etc.
 
-**Neueste Version 0.1**
+**Aktuelle Version 0.1**
 
 *basierend auf einer vorherigen Version von Christoph Rinne (crinne@ufg.uni-kiel.de)*
 
