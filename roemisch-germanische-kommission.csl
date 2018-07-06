@@ -98,7 +98,7 @@
   </macro>
   <!-- KURZZITAT -->
   <citation>
-    <layout delimiter=";" prefix="(" suffix=")">
+    <layout delimiter="; " prefix="" suffix="">
       <group delimiter=",">
         <group>
           <text macro="author-short"/>
