@@ -164,15 +164,16 @@
               </group>
             </else-if>
             <!-- ZEITSCHRIFTENARTIKEL -->
-            <else-if type="article-journal" match="all">
+           <else-if type="article-journal" match="all">
               <group>
                 <text variable="title" suffix=". "/>
                 <group>
                   <group>
                     <text variable="container-title" form="short" suffix=" "/>
-                    <group delimiter="/" suffix=", ">
+                    <group delimiter="" suffix=", ">
                       <text variable="volume"/>
                       <text variable="issue"/>
+                      <text variable="collection-title" prefix=" = " suffix=""/>
                     </group>
                   </group>
                   <date form="text" variable="issued" suffix=", ">
@@ -181,6 +182,7 @@
                   <text macro="pages"/>
                 </group>
               </group>
+            </else-if>
             </else-if>
             <!-- DISSERTATION -->
             <else-if type="thesis" match="all">
